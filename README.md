@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Software/iOS Developer pursuing Computer Engineering, MS at UC Riverside. 
+Software/iOS Developer actively seeking full time/internship positions.
 
 <samp>
   <a href="https://github.com/rpati99">

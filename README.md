@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Software/iOS Developer actively seeking full time/internship positions.
+Software/iOS Developer looking for full time/internship positions.
 
 <samp>
   <a href="https://github.com/rpati99">
